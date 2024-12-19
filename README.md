@@ -43,3 +43,4 @@ Conduct periodic red team assessments to test detection capabilities and identif
 
 
 
+![Screenshot 2024-12-18 204708](https://github.com/user-attachments/assets/04644fdb-8488-4cba-ac50-87cd02e49d8d)
